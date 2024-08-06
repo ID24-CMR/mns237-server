@@ -4,7 +4,19 @@
 	<a href="https://app.circleci.com/pipelines/github/ID24-CMR/mns237-server" title="Circleci"><img src="https://img.shields.io/circleci/build/github/ID24-CMR/mns237-server?color=green&logo=red&style=flat-square?style=flat-square"></a>
   <a href="https://github.com/ID24-CMR/mns237-server/blob/master/LICENSE" title="License"><img src="https://img.shields.io/github/license/ID24-CMR/mns237-serve?style=flat-square"></a>
 </p>
+<p align="center">
+	<a href="#service-apis">Service APIs</a>.
+	<a href="#documentation">Documentation</a>.
+	<a href="#support-and-feedback">Support</a>.
+	<a href="#how-to-contribute">Contribute</a>.
+	<a href="#contributors">Contributors</a>.
+	<a href="#repositories">Repositories</a>.
+	<a href="#liecensing">Licensing</a>
+</p>
 # Table Of Contents
+- For REST api. Click here to see the [Demo Live](https://mns237-serverapi.herokuapp.com/api/)
+- For client. Click here to seee the [Demo Live](https://idrice24.github.io/mns/)  
+- Client project [here](https://github.com/ID24-CMR/mns)
 # Coding
 # Precondition
 # Development Process for server
