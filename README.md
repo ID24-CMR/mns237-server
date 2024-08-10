@@ -20,20 +20,20 @@
 - Client project [here](https://github.com/ID24-CMR/mns)
 # Coding
 # Precondition
-	1. Maven
-	2. PostGres in Windows or Virtual ToolBox / MySQL
-	3. JetBrains IntelliJ IDEA 2020.2 or higher version
-	4. OpenJDK 14.0.2 14.0.2(JavaSE 14) or Above
+1. Maven
+2. PostGres in Windows or Virtual ToolBox / MySQL
+3. JetBrains IntelliJ IDEA 2020.2 or higher version
+4. OpenJDK 14.0.2 14.0.2(JavaSE 14) or Above
 # Development Process for server
-	. Fork/Clone the code
-	. Prepare your machine to use PostGresSQl or MySQL
-	3. Run batch file deploy-local.cmd -- should be successful
-	4. Go to the browser and dial http://localhost:8080/api/
-	5. The browser should display json information
-	6. Let's code now!!
-	7. Run batch deploy-local.cmd -- should be successful
-	8. Commit with issue number
-	9. Push all
+- Fork/Clone the code
+- Prepare your machine to use PostGresSQl or MySQL
+- Run batch file deploy-local.cmd -- should be successful
+- Go to the browser and dial http://localhost:8080/api/
+- The browser should display json information
+- Let's code now!!
+- Run batch deploy-local.cmd -- should be successful
+- Commit with issue number
+- Push all
 ## HowTo
 # Maven
 # Heroku
