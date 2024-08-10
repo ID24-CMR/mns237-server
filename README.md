@@ -26,4 +26,16 @@
 	4. OpenJDK 14.0.2 14.0.2(JavaSE 14) or Above
 # Development Process for server
 	1. Fork/Clone the code
-	2.
+	2. Prepare your machine to use PostGresSQl or MySQL
+	3. Run batch file deploy-local.cmd -- should be sucessfull
+	4. Go to browser and dial http://localhost:8080/api/
+	5. Browser should display json information
+	6. Let's code now!!
+	7. Run batch deploy-local.cmd -- should be successfull
+	8. Commit with issue number
+	9. Push all
+## HowTo
+# Maven
+# Heroku
+# MySQL
+# PostGresSQL
