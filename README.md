@@ -16,22 +16,22 @@
 </p>
 # Table Of Contents
 - For REST api. Click here to see the [Demo Live](https://mns237-serverapi.herokuapp.com/api/)
-- For client. Click here to seee the [Demo Live](https://idrice24.github.io/mns/)  
+- For client. Click here to see the [Demo Live](https://idrice24.github.io/mns/)  
 - Client project [here](https://github.com/ID24-CMR/mns)
 # Coding
 # Precondition
 	1. Maven
 	2. PostGres in Windows or Virtual ToolBox / MySQL
-	3. JetBrain IntelliJ IDEA 2020.2 or higher version
+	3. JetBrains IntelliJ IDEA 2020.2 or higher version
 	4. OpenJDK 14.0.2 14.0.2(JavaSE 14) or Above
 # Development Process for server
-	1. Fork/Clone the code
-	2. Prepare your machine to use PostGresSQl or MySQL
-	3. Run batch file deploy-local.cmd -- should be sucessfull
-	4. Go to browser and dial http://localhost:8080/api/
-	5. Browser should display json information
+	. Fork/Clone the code
+	. Prepare your machine to use PostGresSQl or MySQL
+	3. Run batch file deploy-local.cmd -- should be successful
+	4. Go to the browser and dial http://localhost:8080/api/
+	5. The browser should display json information
 	6. Let's code now!!
-	7. Run batch deploy-local.cmd -- should be successfull
+	7. Run batch deploy-local.cmd -- should be successful
 	8. Commit with issue number
 	9. Push all
 ## HowTo
